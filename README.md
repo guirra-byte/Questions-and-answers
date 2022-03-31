@@ -4,7 +4,6 @@
 ![Captura de Tela (327)](https://user-images.githubusercontent.com/77081114/161136839-ef6a9fd1-11c4-441b-8c36-30b4a89545ee.png)
 ![Captura de Tela (329)](https://user-images.githubusercontent.com/77081114/161136847-64ed97c0-a2b2-4128-910c-bfb57e0f54ed.png)
 ![Captura de Tela (333)](https://user-images.githubusercontent.com/77081114/161136852-22ba5a64-d089-4877-87a2-0998dd45b867.png)
-![firstImage](https://user-images.githubusercontent.com/77081114/161136856-f42069c1-8642-4fac-898f-e49151aa508c.png)
 
 ### Descrição ☝
 > É um projeto onde é possível cadastrar perguntas e respostas das determinadas perguntas por meio de um relacionamento entre tabelas no Banco de Dados. É um projeto com Back-end, Banco de Dados e Front-End
