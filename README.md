@@ -14,7 +14,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Cadastrar Perguntas
-- [x] Cadastrar Respostas referentes a cada pergunta baseada na relação das tableas pelo Id  
+- [x] Cadastrar Respostas referentes a cada pergunta baseada na relação das tabelas pelo Id  
 - [x] Inserção no Banco de Dados
 - [ ] Deletar 
 - [ ] Atualizar
