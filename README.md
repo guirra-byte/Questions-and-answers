@@ -19,7 +19,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Deletar pergunta e resposta
 - [ ] Atualizar pergunta e resposta
 - [ ] Cadastro de Usuário
-- [ ] Inserção de Usuário no Banco de Dados
 - [ ] Validação de Usuário
 - [ ] Deletar Usuário
 
