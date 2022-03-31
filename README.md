@@ -16,11 +16,12 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Cadastrar Perguntas
 - [x] Cadastrar Respostas referentes a cada pergunta baseada na relação das tabelas pelo Id  
 - [x] Inserção no Banco de Dados
-- [ ] Deletar 
-- [ ] Atualizar
+- [ ] Deletar pergunta e resposta
+- [ ] Atualizar pergunta e resposta
 - [ ] Cadastro de Usuário
 - [ ] Inserção de Usuário no Banco de Dados
 - [ ] Validação de Usuário
+- [ ] Deletar Usuário
 
 ## Feito Com: ⚒
 ![Node.Js](https://img.shields.io/badge/Node.js-52b788?style=for-the-badge&logo=node.js&logoColor=white)
